@@ -1,0 +1,45 @@
+body{
+	background-color: #000000;
+}
+
+.nav-item{
+	margin:0 15px;
+}
+
+.feedback-title{
+	padding-bottom: 10px;
+	margin-bottom: 20px;
+	color: #A4FFF9;
+}
+
+
+img{
+	padding-left: 15px;
+	height: auto;
+	width: auto;
+	color: #BABDCD;
+}
+
+.card{
+	box-shadow: 0px 0px 90px -10px rgba(40,107,252,1);
+	border-color: #B5FFFA;
+	border-radius: 10px;
+	margin: 10px;
+}
+
+.feedback-text{
+	color: #141C76;
+	font-weight: bold;
+	font-size: 2rem;
+	padding:5% 0;
+}
+
+.btn-block{
+	font-size: 1.2rem;
+	font-weight: 700;
+}
+
+.cardicon{
+	font-size: 5rem;
+	padding: auto; 
+}

@@ -1,0 +1,66 @@
+body{
+  background-color: #000000;
+}
+
+.nav-item{
+  margin:0 15px;
+}
+
+#feedback{
+  background-color: #00384D;
+  border-radius: 10px;
+  width: 40%;
+  color: white;
+}
+
+#canteenquestion{
+  padding: 15px;
+  font-family: 'Kanit', sans-serif;
+}
+
+#maintable{
+  margin-top: 50px;
+}
+
+.first{
+  padding-top: 40px;
+}
+
+.submitbtn{
+  padding :10px;
+  margin: 20px;
+  border-radius: 20px;
+  width: 140px;
+  font-weight: 900;
+  font-size: 15px;
+}
+
+.slider {
+  -webkit-appearance: none;
+  width: 100%;
+  height: 15px;
+  border-radius: 5px;   
+  background: #d3d3d3;
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%; 
+  background: #4CAF50;
+  cursor: pointer;
+}
+
+.slider::-moz-range-thumb {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  background: #4CAF50;
+  cursor: pointer;
+}

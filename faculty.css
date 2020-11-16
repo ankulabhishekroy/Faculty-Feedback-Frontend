@@ -1,0 +1,61 @@
+body{
+  background: url('background.jpg');
+  background-size: cover;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-item{
+  margin:0 15px;
+}
+
+.navicon{
+  margin-right: 8px;
+}
+.nav-link{
+  font-size:20px;
+}
+.faculty-title{
+  padding-bottom: 10px;
+  margin-bottom: 20px;
+  font-size: 40px;
+  font-family: 'Bree Serif', serif;
+  font-weight: 900;
+}
+
+.subject{
+  display: block;
+  margin: ;
+}
+
+.col-md{
+  max-width: 20%;
+}
+
+.subicon{
+  font-size: 3.5rem;
+  padding: 25px 0; 
+}
+
+.subject-title{
+  color: #141C76;
+  font-weight: 800;
+  font-size: 1.2rem;
+}
+
+.titlesub{
+  height: 270px;
+}
+
+.card{
+  box-shadow: 0px 0px 90px -10px rgba(50,100,212,1);
+  border-color: #B5FFFA;
+  border-radius: 10px;
+  margin: 10px 0;
+  min-width: 180px;
+  max-width: 300px;
+}
+
+.subject-faculty{
+  font-weight: 700;
+}
